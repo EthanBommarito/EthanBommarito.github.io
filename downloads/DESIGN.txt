@@ -1,0 +1,22 @@
+also heres me drafting the design.txt doc we need 2 have:
+```
+"What is the pitch for your custom level?"
+Our level begins as a twist on the original Brinstar - at the start, the player is greeted with a familiar looking screen. However, they will soon realize that the map has completely changed and that they must learn a new skill if they are to make it through this new area.
+
+"What is the pitch for your custom mechanic?"
+Our mechanic is what we call the "glide jump". While in midair, Samus can press the jump button to begin gliding forwards with minimal height loss. This allows her to cross large, dangerous gaps while avoiding enemies across the gap. You can enter, exit, fire and re-enter gliding as long as you are in midair, but once you start gliding in one direction, you can't turn around.
+
+"How does your new mechanic / custom level change the way the game is played?"
+Our mechanic changes the game by increasing the usage and danger of lava in the map. By isolating the player with minimal places to land in a sea of lava and enemies, the game introduces more precise platforming and makes the player think about their timing throughout the level. Additionally, with the player still being able to shoot their blaster while gliding, the mechanic makes room for a change in the combat.
+
+"What new interesting decisions does your new mechanic / custom level bring about?"
+Our new mechanic is designed such that it can easily integrate with previous elements of the game; existing enemies and map designs can also be given a twist to force the player to have a new approach to completing the map.
+
+"How do you explain the new mechanic to the player (or make its utility obvious) while they are playing without using a bunch of clumsy text? (Assume that players will ignore any text that is more than a few words long)"
+Similar to the morph ball powerup in the original game, the area in which the player collects the glide jump powerup cannot be left without using the powerup to cross a gap of dangerous lava. We do this by having the entry point of the room high in the ceiling such that it can't be jumped back up to.
+
+What are the URLs to your online portfolios (where a web build may be played)?
+Please provide one portfolio link for each partner on your team.
+https://eash.dev/494
+https://ethanbommarito.github.io/
+```
