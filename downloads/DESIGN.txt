@@ -1,5 +1,3 @@
-also heres me drafting the design.txt doc we need 2 have:
-```
 "What is the pitch for your custom level?"
 Our level begins as a twist on the original Brinstar - at the start, the player is greeted with a familiar looking screen. However, they will soon realize that the map has completely changed and that they must learn a new skill if they are to make it through this new area.
 
@@ -19,4 +17,3 @@ What are the URLs to your online portfolios (where a web build may be played)?
 Please provide one portfolio link for each partner on your team.
 https://eash.dev/494
 https://ethanbommarito.github.io/
-```
